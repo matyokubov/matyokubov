@@ -1,7 +1,9 @@
-### Hi there 👋
+### Salom 👋
 
 
-**user2020-py/user2020-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mening ismim Matyoqubov Firdavs, yoshim 14 da
+**Hozirda Python va Front-End bo'yicha shug'illanaman
+**Va mening Python, HTML&CSS, JavaScript bo'yicha loyihalarim bor
 
 Here are some ideas to get you started:
 
