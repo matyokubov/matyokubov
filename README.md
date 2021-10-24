@@ -9,3 +9,8 @@ Murojaat uchun:
 - Telegram: <a href="https://t.me/junior_coder_2007">@junior_coder_2007</a> (+998997721484)
 - Pochta: x_bomba@inbox.ru
 
+Xizmatlar:
+
+- Telegram bot yasab beramiz
+- Web saytlar yasab beramiz
+- <a href="https://t.me/pyreklama/5">Reklama xizmati</a>
