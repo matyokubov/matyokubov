@@ -1,21 +1,11 @@
-### Salom 👋
+<h1>Salom 👋</h1>
+<h4>Mening ismim Matyoqubov Firdavs, yoshim 14 da.<br>
+Hozirda Python va Front-End bo'yicha shug'illanaman.<br>
+Mening Python, HTML&CSS, JavaScript bo'yicha loyihalarim bor.<br>
+</h4>
 
+Murojaat uchun:
 
-##Mening ismim Matyoqubov Firdavs, yoshim 14 da
-
-##Hozirda Python va Front-End bo'yicha shug'illanaman
-
-##Va mening Python, HTML&CSS, JavaScript bo'yicha loyihalarim bor
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Telegram: <a href="https://t.me/junior_coder_2007">@junior_coder_2007</a> (+998997721484)
+- Pochta: x_bomba@inbox.ru
 
