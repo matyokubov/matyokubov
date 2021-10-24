@@ -1,5 +1,5 @@
 <h1>Salom 👋</h1>
-<h4>Mening ismim Matyoqubov Firdavs, yoshim 14 da.<br>
+<h4>Mening ismim Firdavs, yoshim 14 da.<br>
 Hozirda Python va Front-End bo'yicha shug'illanaman.<br>
 Mening Python, HTML&CSS, JavaScript bo'yicha loyihalarim bor.<br>
 </h4>
