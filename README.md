@@ -1,11 +1,11 @@
 ### Salom 👋
 
 
-#Mening ismim Matyoqubov Firdavs, yoshim 14 da
+##Mening ismim Matyoqubov Firdavs, yoshim 14 da
 
-#Hozirda Python va Front-End bo'yicha shug'illanaman
+##Hozirda Python va Front-End bo'yicha shug'illanaman
 
-#Va mening Python, HTML&CSS, JavaScript bo'yicha loyihalarim bor
+##Va mening Python, HTML&CSS, JavaScript bo'yicha loyihalarim bor
 
 
 Here are some ideas to get you started:
