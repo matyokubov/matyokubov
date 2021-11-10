@@ -4,6 +4,8 @@ Hozirda Python va Front-End bo'yicha shug'illanaman.<br>
 Mening Python, HTML&CSS, JavaScript bo'yicha loyihalarim bor.<br>
 </h4>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&show_icons=true&theme=react)
+
 Murojaat uchun:
 
 - Telegram: <a href="https://t.me/junior_coder_2007">@junior_coder_2007</a> (+998997721484)
