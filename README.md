@@ -4,7 +4,7 @@ Hozirda Python va Front-End bo'yicha shug'illanaman.<br>
 Mening Python, HTML&CSS, JavaScript bo'yicha loyihalarim bor.<br>
 </h4>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&show_icons=true&theme=react)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=user2020-py&show_icons=true&theme=react)
 
 Murojaat uchun:
 
