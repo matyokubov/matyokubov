@@ -2,12 +2,16 @@
 <h4>Mening ismim Firdavs, yoshim 14 da.<br>
 Hozirda Python va FrontEnd bo'yicha shug'illanaman.<br>
 </h4>
-Asosiy soham FrontEnd
-- HTML
-- CSS
-- SASS
-- JS
-- ReactJS
+<detail>
+ Asosiy soham FrontEnd
+ <summary>
+  - HTML
+  - CSS
+  - SASS
+  - JS
+  - ReactJS
+ </summary>
+</detail>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=user2020-py&show_icons=true&theme=react)
 
 Murojaat uchun:
