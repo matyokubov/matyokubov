@@ -11,12 +11,12 @@ Asosiy soham FrontEnd:
 - ReactJS
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=user2020-py&show_icons=true&theme=react)
-
+<h4></h4>
 Murojaat uchun:
 
 - Telegram: <a href="https://t.me/junior_coder_2007">@junior_coder_2007</a> (+998997721484)
 - Pochta: x_bomba@inbox.ru
-
+<h4></h4>
 Xizmatlar:
 
 - Telegram bot yasab beramiz
