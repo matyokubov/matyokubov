@@ -12,8 +12,7 @@ Python:
 
 - Basics & Advanced
 - Flask (Web Framework)
-
-<hr width="250px">
+<br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=user2020-py&show_icons=true&theme=tokyonight)<br>
 ![](https://github-readme-stats.vercel.app/api?username=user2020-py&show_icons=true&theme=tokyonight)
