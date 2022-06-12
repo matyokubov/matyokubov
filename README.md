@@ -1,15 +1,17 @@
-<h1>Salom 👋</h1>
-<h4>Mening ismim Firdavs, yoshim 14 da.<br>
-Hozirda Python va FrontEnd bo'yicha shug'illanaman.<br>
-</h4>
-Asosiy soham FrontEnd:
+<h1>Hello</h1>
+<iframe src="https://giphy.com/embed/KiMBUPZUhUg4HRV6PW" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<h4>I am Matyoqubov Firdavs, 15 y.o Front-End & Python developer</h4>
 
-- HTML
-- CSS
+FrontEnd:
+- HTML5
+- CSS3
 - SASS
-- JS
-- ReactJS
+- JS/ES6
+- Bootstrap5
 
+Python:
+- Basics & Advanced
+- Flask (Web Framework)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=user2020-py&show_icons=true&theme=react)
 <h4></h4>
 Murojaat uchun:
