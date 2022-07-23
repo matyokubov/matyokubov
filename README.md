@@ -1,17 +1,13 @@
 <h1>Hello</h1>
 <h4>I'm Matyoqubov Firdavs, 15 y.o Front-End & Python developer</h4>
-FrontEnd:
+My skills:
 
 - HTML5
-- CSS3
-- SASS
-- JS/ES6
-- Bootstrap5
+- CSS3 => SASS > Bootstrap5
+- JS/ES6 > ReactJS
+- NodeJS
+- Python > Flask
 <hr width="250px">
-Python:
-
-- Basics & Advanced
-- Flask (Web Framework)
 <br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=user2020-py&show_icons=true&theme=tokyonight)<br>
