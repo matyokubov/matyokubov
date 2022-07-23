@@ -10,8 +10,8 @@ My skills:
 <hr width="250px">
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=user2020-py&show_icons=true&theme=tokyonight)<br>
-![](https://github-readme-stats.vercel.app/api?username=user2020-py&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matyokubov&show_icons=true&theme=tokyonight)<br>
+![](https://github-readme-stats.vercel.app/api?username=matyokubov&show_icons=true&theme=tokyonight)
 <h4></h4>
 Contact me:
 
