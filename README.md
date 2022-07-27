@@ -7,6 +7,13 @@ My skills:
 - JS/ES6 > ReactJS
 - NodeJS
 - Python > Flask
+
+<br>
+
+My tools:
+- GitHub/Git
+- Heroku & Netlify (for deploys)
+
 <hr width="250px">
 <br>
 
