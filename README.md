@@ -23,7 +23,7 @@ My tools:
 Contact me:
 
 - Telegram: <a href="https://t.me/junior_coder_2007">@junior_coder_2007</a> (+998997721484)
-- Email: x_bomba@inbox.ru
+- Email: firdavsmatyoqubov@mail.ru
 <h4></h4>
 My Portfolio:
 
