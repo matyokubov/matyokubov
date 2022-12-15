@@ -6,7 +6,7 @@ My skills:
 - CSS3 => SASS > Bootstrap5
 - JS/ES6 > ReactJS
 - NodeJS
-- Python > Flask
+- Python > Advanced
 
 <br>
 
