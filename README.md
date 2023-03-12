@@ -5,7 +5,7 @@ My skills:
 - HTML5
 - CSS3 => SASS > Bootstrap5
 - JS/ES6 & NodeJS => TypeScript
-- ReactJS
+- ReactJS => RestAPI
 - Python: Advanced
 
 <br>
