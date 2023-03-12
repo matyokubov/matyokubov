@@ -11,7 +11,6 @@ My skills:
 <br>
 
 My tools:
-
 - GitHub/Git
 - Heroku & Netlify (for deploys)
 
