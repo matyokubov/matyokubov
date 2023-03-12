@@ -1,4 +1,4 @@
-<h1>Hi👋</h1>
+<h1>Hi</h1>
 <h4>I'm Firdavs, 15 y.o Front-End & Python developer</h4>
 My skills:
 
