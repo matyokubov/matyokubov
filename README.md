@@ -14,7 +14,6 @@ My tools:
 - GitHub/Git
 - Heroku & Netlify (for deploys)
 
-<hr width="250px">
 <br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matyokubov&show_icons=true&theme=tokyonight)<br>
