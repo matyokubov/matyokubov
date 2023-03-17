@@ -21,10 +21,7 @@ My tools:
 <h4></h4>
 Contact me:
 
-- Telegram: <a href="https://t.me/junior_coder_2007">@junior_coder_2007</a> (+998997721484)
+- Telegram: <a href="https://t.me/matyokuboff">Follow me</a>
 - Email: firdavsmatyoqubov@mail.ru
 <h4></h4>
-My Portfolio:
-
-- <a href="https://t.me/Matyoqubov_Firdavs">Open in Telegram</hr>
  
