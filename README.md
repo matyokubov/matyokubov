@@ -21,7 +21,7 @@ My tools:
 <h4></h4>
 Contact me:
 
-- Telegram: <a href="https://t.me/matyokuboff">Follow me</a>
 - Email: firdavsmatyoqubov@mail.ru
+- <a href="https://t.me/matyokuboff">Follow me in Telegram</a>
 <h4></h4>
  
