@@ -5,14 +5,8 @@ My skills:
 - HTML5
 - CSS3 => SASS > Bootstrap5
 - JS/ES6 & NodeJS => TypeScript
-- ReactJS => RestAPI
+- ReactJS/ReduxToolkit & RestAPI
 - Python: Advanced
-
-<br>
-
-My tools:
-- GitHub/Git
-- Heroku & Netlify (for deploys)
 
 <br>
 
