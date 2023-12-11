@@ -10,9 +10,6 @@ I can use:
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matyokubov&show_icons=true&theme=tokyonight)<br>
-![](https://github-readme-stats.vercel.app/api?username=matyokubov&show_icons=true&theme=tokyonight)
-<h4></h4>
 Contact me:
 
 - Email: firdavsmatyoqubov@mail.ru
